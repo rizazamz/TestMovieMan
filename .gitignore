@@ -1,0 +1,9 @@
+local.properties
+.gradle/
+.kotlin/
+**/build/
+.idea/
+*.iml
+.DS_Store
+.tools/
+.codex/config.toml

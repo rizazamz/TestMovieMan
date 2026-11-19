@@ -1,0 +1,4 @@
+<resources>
+    <color name="artwork_placeholder_background">#303038</color>
+    <color name="artwork_placeholder_foreground">#B0B0BA</color>
+</resources>

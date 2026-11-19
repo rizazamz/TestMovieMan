@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TMDB Catalog</string>
+    <string name="loading">Memuat…</string>
+    <string name="retry">Coba lagi</string>
+    <string name="back">Kembali</string>
+    <string name="choose_genre">Jelajahi berdasarkan genre</string>
+    <string name="genres_empty">Daftar genre belum tersedia. Silakan coba lagi.</string>
+    <string name="movies_empty">Belum ada film untuk genre ini.</string>
+    <string name="movie_detail">Detail film</string>
+    <string name="detail_empty">Informasi film belum tersedia.</string>
+    <string name="error_network">Tidak dapat terhubung. Periksa koneksi internet Anda, lalu coba lagi.</string>
+    <string name="error_unauthorized">Akses ke katalog belum tersedia. Silakan coba lagi nanti.</string>
+    <string name="error_server">Layanan film sedang mengalami gangguan. Silakan coba lagi.</string>
+    <string name="error_unknown">Data tidak dapat dimuat. Silakan coba lagi.</string>
+    <string name="rating_value">Rating: %1$.1f / 10</string>
+    <string name="release_unavailable">Tanggal rilis belum tersedia</string>
+    <string name="unavailable">Belum tersedia</string>
+    <string name="poster_description">Poster %1$s</string>
+    <string name="release_label">Rilis: %1$s</string>
+    <string name="runtime_label">Durasi: %1$s</string>
+    <plurals name="runtime_minutes">
+        <item quantity="one">%1$d menit</item>
+        <item quantity="other">%1$d menit</item>
+    </plurals>
+    <string name="synopsis">Sinopsis</string>
+    <string name="synopsis_empty">Sinopsis belum tersedia untuk film ini.</string>
+    <string name="trailer">Trailer</string>
+    <string name="trailer_empty">Film ini belum memiliki trailer YouTube yang tersedia.</string>
+    <string name="trailer_playback_error">Trailer tidak dapat diputar. Silakan coba lagi.</string>
+    <string name="reviews">Ulasan penonton</string>
+    <string name="reviews_empty">Belum ada ulasan untuk film ini.</string>
+    <string name="anonymous_reviewer">Penonton</string>
+</resources>
